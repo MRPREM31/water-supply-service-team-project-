@@ -20,6 +20,23 @@ AquaPure is a dynamic, responsive, and professional bottled water delivery websi
 - 🎯 Clean UI and clear CTA buttons
 
 ---
-
 ## 📦 Folder Structure
+aquapure/
+├── app.py
+├── orders.db # Local DB (do not upload public)
+├── requirements.txt
+├── templates/
+│ ├── layout.html
+│ ├── index.html
+│ ├── result.html
+│ └── admin.html
+├── static/
+│ ├── style.css
+│ ├── script.js
+│ └── images/
+│ ├── hero-background.jpg
+│ ├── 1l-bottle.png
+│ ├── 20l-bottle.png
+│ └── ...
+└── README.md
 
