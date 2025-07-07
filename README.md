@@ -9,21 +9,6 @@ AquaPure is a responsive and user-friendly bottled water delivery platform built
 
 ### 👤 User Interface
 - 🖼️ Attractive landing page with a hero banner
-- ✅ Easy order placement for 1L and 20L water bottles
-- 📱 Fully responsive design for all devices
-
-### 🔐 Admin Panel
-- 🔒 Password-protected access at `/admin`
-- 📋 View all user orders in a clean table
-- 📥 Download orders as Excel file (.xlsx)
-
-### 💾 Backend
-- 🗃️ Orders saved securely using SQLite3 database
-- 📤 Functional contact form for customer messages
-- 🔧 Clean and modular Flask routing for easy updates
-
-### 👤 User Interface
-- 🖼️ Attractive landing page with a hero banner
 - ✅ Easy order placement for 1L and 20L bottles
 - 📱 Fully responsive for all screen sizes
 
